@@ -1,0 +1,69 @@
+
+
+<table class="table table-striped table-dark " id= "table_id">
+
+                   
+<thead>    
+<tr>
+<th>Nombre</th>
+<th>Correo</th>
+<th>Password</th>
+<th>Telefono</th>
+<th>Fecha</th>
+<th>Rol</th>
+
+
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td>Maria</td>
+<td>user@gmail.com</td>
+<td>12345</td>
+<td>9900258789</td>
+<td>2022-06-11 18:30:47</td>
+<td>Usuarios</td>
+
+
+
+<tr>
+<td>Emanuel</td>
+<td>usuario@gmail.com.mx</td>
+<td>12345</td>
+<td>9911165670</td>
+<td>2022-06-13 19:10:54</td>
+<td>Administrador</td>
+
+
+
+<tr>
+<td>Jose</td>
+<td>jt615257@gmail.com</td>
+<td>12345</td>
+<td>9981298737</td>
+<td>2022-06-11 18:31:03</td>
+<td>Usuarios</td>
+
+
+
+<tr>
+<td>Shaggy</td>
+<td>Shaggy@Buu.net</td>
+<td>12345</td>
+<td>54948151</td>
+<td>2022-06-13 19:09:56</td>
+<td>Administrador</td>
+
+
+
+<tr>
+<td>Scrapy</td>
+<td>sam@gmail.com</td>
+<td>12345</td>
+<td>9975201478</td>
+<td>2022-06-13 18:31:27</td>
+<td>Usuarios</td>
+
+
+
